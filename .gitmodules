@@ -1,0 +1,3 @@
+[submodule "pcf8563-rs"]
+	path = pcf8563-rs
+	url = ./pcf8563-rs/
